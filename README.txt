@@ -1,0 +1,2 @@
+This is a repository for my various scripts I make/will make to assist me in my IT work.
+As I currently work in helpdesk for consumers and not business, there may be few updates and varied goals with each new script. 
